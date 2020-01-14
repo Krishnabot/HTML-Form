@@ -11,6 +11,10 @@ body {
     background-color: #ECEEF1;
 }
 
+a:link {
+  text-decoration: none;
+}
+
 @font-face {
     font-family: 'Kameron';
     font-style: normal;
@@ -118,7 +122,7 @@ body {
 fieldset {
   border: 0;
   margin: 0;
-  padding: 0;
+  padding-top: 20px;
 }
 
 .form-text-bottom {
@@ -186,6 +190,14 @@ h3 {
     padding-bottom: 25px;
 }
 
+h3 a {
+    color: blue;
+}
+
+span a {
+    color: blue;
+}
+
 .learn-more {
     padding: 0;
     margin: 0;
@@ -193,5 +205,9 @@ h3 {
     color: #777;
     line-height: 0;    
     font-weight: 400;
+}
+
+p a {
+      color: blue;  
 }
 
