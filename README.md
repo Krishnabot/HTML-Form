@@ -36,4 +36,8 @@ building an HTML document that matches the appearance of mint.com’s signup pag
 - Github: [@jaspreet-singh-sahota](https://github.com/jaspreet-singh-sahota)
 - Twitter: [@jaspree88033250]https://twitter.com/jaspree88033250
 - Linkedin: [jaspreet Singh]https://www.linkedin.com/in/jaspreet-singh-a28286146/
+👤 **Krishna Prasad Acharya**
+- Github: [@krishnabot](https://github.com/Krishnabot)
+- Twitter: [@@etrnalblasphemy]https://twitter.com/etrnalblasphemy
+- Linkedin: [Krishna Prasad Acharya]https://www.linkedin.com/in/krishna-prasad-acharya-3596bb130/
 
